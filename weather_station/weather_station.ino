@@ -1,4 +1,4 @@
-// Метеостанция Weather, Arduino Uno (Шахов С.Ю., ИС-45к)
+// Метеостанция Weather, Arduino Uno (Шахов С.Ю., ИС-43к)
 #include <Adafruit_LiquidCrystal.h>
 
 const int TMP = A1, HUM = A3, LDR = A2;
